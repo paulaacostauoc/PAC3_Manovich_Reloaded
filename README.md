@@ -1,6 +1,6 @@
 # PAC3_Manovich_Reloaded
 
-# PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
+## PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
 
 Autor: Paula Acosta
