@@ -49,23 +49,23 @@ La faceta que fa d'aquesta pàgina web i d'altres un exemple d'hibridació resul
 * Manovich, Lev. (2013). **El Software pren el comandament**. Barcelona: Editorial UOC. 
 
 
-ALVARENGA DE PEDRO, Hernán. **Hibridaciones en tiempos de convergencia digital**. HAdP [Hernán] Alvarenga de Pedro. Imágenes mutantes. Desconegut: Editorial Teseo, 2020. ISBN 9789878657370.
+* ALVARENGA DE PEDRO, Hernán. **Hibridaciones en tiempos de convergencia digital**. HAdP [Hernán] Alvarenga de Pedro. Imágenes mutantes. Desconegut: Editorial Teseo, 2020. ISBN 9789878657370.
 
 **Vídeo mapping**
 
-Video mapping [en línia] [consulta: 1 de Desembre de 2021]. Disponible a: https://es.wikipedia.org/wiki/Video_mapping
+* Video mapping [en línia] [consulta: 1 de Desembre de 2021]. Disponible a: https://es.wikipedia.org/wiki/Video_mapping
 
-Desconegut. ¿Qué es el maping? [en línia]. Prodisa Comunicacion, Desconegut  [consulta: 1 de Desembre de 2021]. Disponible a: https://prodisacomunicacion.com/es/noticias/que_es_el_mapping/
+* Desconegut. ¿Qué es el maping? [en línia]. Prodisa Comunicacion, Desconegut  [consulta: 1 de Desembre de 2021]. Disponible a: https://prodisacomunicacion.com/es/noticias/que_es_el_mapping/
 
-SYDNEY OPERA HOUSE. Sydney Opera House: Lighting the Sails 2012 by URBANSCREEN [vídeo en línia]. 2012 [consulta: 1 de Desembre de 2021]. Disponible a: https://www.youtube.com/watch?v=o5ZvCv7yUKk
+* SYDNEY OPERA HOUSE. Sydney Opera House: Lighting the Sails 2012 by URBANSCREEN [vídeo en línia]. 2012 [consulta: 1 de Desembre de 2021]. Disponible a: https://www.youtube.com/watch?v=o5ZvCv7yUKk
 
 **Netflix** 
 
-Streaming [en línia] [consulta: 1 de Desembre de 2021]. Disponible a: https://es.wikipedia.org/wiki/Streaming
+* Streaming [en línia] [consulta: 1 de Desembre de 2021]. Disponible a: https://es.wikipedia.org/wiki/Streaming
 
-Netflix [en línia] [consulta: 1 de Desembre de 2021]. Disponible a: https://es.wikipedia.org/wiki/Netflix
+* Netflix [en línia] [consulta: 1 de Desembre de 2021]. Disponible a: https://es.wikipedia.org/wiki/Netflix
 
-FOUNDATION FOR ECONOMIC EDUCATION. A Definitive History of Streaming Media from Netflix to Disney+  [vídeo en línia]. 2019 [consulta: 1 de Desembre de 2021]. Disponible a: https://www.youtube.com/watch?v=yfjBUeF1avk
+* FOUNDATION FOR ECONOMIC EDUCATION. A Definitive History of Streaming Media from Netflix to Disney+  [vídeo en línia]. 2019 [consulta: 1 de Desembre de 2021]. Disponible a: https://www.youtube.com/watch?v=yfjBUeF1avk
 ----
 
 Llicència: Material Creative Commons desenvolupat sota llicència Creative Commons Zero v1.0 Universal. Imatges CC BY [Pixabay](https://pixabay.com)
