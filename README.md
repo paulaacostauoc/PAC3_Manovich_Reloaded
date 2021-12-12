@@ -77,6 +77,12 @@ La faceta que fa d'aquesta pàgina web i d'altres un exemple d'hibridació resul
 
 * **Pixabay** [en línia] Disponible a: https://pixabay.com
 
+**Programari**
+
+* **StackEdit** [en línia]. Disponible a: https://stackedit.io/app#
+
+* **GitHub** [en línia]. Disponible a: https://github.com/
+
 **Vídeo mapping**
 
 * **Video mapping** [en línia] [consulta: 1 de Desembre de 2021]. Disponible a: https://es.wikipedia.org/wiki/Video_mapping
