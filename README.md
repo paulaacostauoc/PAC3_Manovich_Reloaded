@@ -25,7 +25,8 @@ Segurament us preguntareu on va donar inici una especialitat tan sorprenent com 
 El següent pas que observem en la seva història va ser l'invent de la "llanterna màgica" de Christiaan Huygens i Athanasius Kircher, un primitiu projector de seqüència d'imatge creat a partir de la projecció de llum i altres recursos òptics. Va ser portat a la "gran pantalla" a mitjans. XVII fent-se molt popular temps després a les fires. Més tard, cap a finals de segle XVIII, es va inventar la fantasmagoria, un projector molt més sofisticat compost per diverses "llanternes màgiques" mòbils, barrejades amb projectors frontals, retro projeccions i projeccions sofisticades sobre elements sòlids, que van resultar exitoses per al teatre de terror. És aquí on es comencen a adaptar les projeccions sobre arquitectures complexes per tal d'afegir realisme i profunditat a les il·lusions òptiques.
 
 
-<img width="908" alt="E G  Robertson, sessió a París en 1797" src="https://user-images.githubusercontent.com/96004226/145729574-4aa7aadc-aa6d-46d1-9b96-a293563a9e92.png">
+
+<img width="703" alt="E G  Robertson, sessió a París en 1797" src="https://user-images.githubusercontent.com/96004226/145730301-b5eacc56-7057-4c63-82dc-916fe949636f.png">
 
 *Mémoires récréatifs, scientifiques et anecdotiques du physicien-aéronaute E.G. Robertson, sessió a París en 1797*
 
@@ -73,6 +74,8 @@ La faceta que fa d'aquesta pàgina web i d'altres un exemple d'hibridació resul
 * Manovich, Lev. (2013). **El Software pren el comandament**. Barcelona: Editorial UOC. 
 
 * ALVARENGA DE PEDRO, Hernán. **Hibridaciones en tiempos de convergencia digital**. HAdP [Hernán] Alvarenga de Pedro. Imágenes mutantes. Desconegut: Editorial Teseo, 2020. ISBN 9789878657370.
+
+* **Pixabay** [en línia] Disponible a: https://pixabay.com/es/vectors/mundo-globo-tierra-continentes-296692/
 
 **Vídeo mapping**
 
