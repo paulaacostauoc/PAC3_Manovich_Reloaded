@@ -75,7 +75,7 @@ La faceta que fa d'aquesta pàgina web i d'altres un exemple d'hibridació resul
 
 * ALVARENGA DE PEDRO, Hernán. **Hibridaciones en tiempos de convergencia digital**. HAdP [Hernán] Alvarenga de Pedro. Imágenes mutantes. Desconegut: Editorial Teseo, 2020. ISBN 9789878657370.
 
-* **Pixabay** [en línia] Disponible a: https://pixabay.com/es/vectors/mundo-globo-tierra-continentes-296692/
+* **Pixabay** [en línia] Disponible a: https://pixabay.com
 
 **Vídeo mapping**
 
