@@ -36,4 +36,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia Creative Commons Zero v1.0 Universal. Imágenes CC BY [Pixabay](https://pixabay.com)
+Llicència: Material Creative Commons desenvolupat sota llicència Creative Commons Zero v1.0 Universal. Imatges CC BY [Pixabay](https://pixabay.com)
