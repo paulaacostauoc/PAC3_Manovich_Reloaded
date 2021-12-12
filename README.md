@@ -8,8 +8,8 @@ Autor: Paula Acosta
 
 Data: 12/12/2021
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
+![Smartphone-1184865_960_720](https://user-images.githubusercontent.com/96004226/145729445-9ecc30d5-bb09-4cde-92a3-61ef0097b7e6.png)
 
 
 ## Plantejament
@@ -33,9 +33,9 @@ La tècnica del vídeo mapping com a hibridació de medis sonors, visuals i arqu
 
 ## Re-descobrint la hibridació: Cas 2
 
-A continuació observarem un altre cas en la història de la mediatització audiovisual, submergint-nos al món de les plataformes digitals, enfocant-nos en el seu líder, Netflix. Ens trobem davant de l'absoluta representació d'un mix entre pàgina web i cinematografia. Sent tot un fenomen social i cultural de gran rellevància globalitzat encara més en temps de COVID-19.
+A continuació observarem un altre exemple en la història de la mediatització audiovisual, submergint-nos al món de les plataformes digitals, enfocant-nos en el seu líder, Netflix. Ens trobem davant de l'absoluta representació d'un mix entre pàgina web i cinematografia. Sent tot un fenomen social i cultural de gran rellevància globalitzat encara més en temps de COVID-19.
 
-A mitjans dels anys noranta ja estava tot preparat per donar pas a la seva existència amb dispositius capaços de reproduir contingut multimèdia, connexió a internet, xarxes d'emissió i emmagatzematge de contingut i portals virtuals. L'empresa és mundialment coneguda pel seu servei d'*streaming* durant els darrers anys, però en la seva història, que ve de més enrere, ha ofert una varietat més àmplia de serveis relatius al món de l'entreteniment. Netflix va néixer l'any 1997 com una espècie de videoclub virtual on els clients rebien les pel·lícules llogades via correu postal posant-se en competència amb altres grans creacions de l'època com el sistema de reproducció RealPlayer (1997).
+A mitjans dels anys noranta ja estava tot preparat per donar pas a la seva existència amb dispositius capaços de reproduir contingut multimèdia, connexió a internet, xarxes d'emissió i emmagatzematge de contingut i portals virtuals. L'empresa és mundialment coneguda pel seu servei d'streaming durant els darrers anys, però en la seva història, que ve de més enrere, ha ofert una varietat més àmplia de serveis relatius al món de l'entreteniment. Netflix va néixer l'any 1997 com una espècie de videoclub virtual on els clients rebien les pel·lícules llogades via correu postal posant-se en competència amb altres grans creacions de l'època com el sistema de reproducció RealPlayer (1997).
 Si bé en els seus començaments funcionava com a distribuïdora de continguts, amb el pas del temps, es va convertir en productora proposant nous vincles entre llenguatges i dispositius. El cinema ja no era la pantalla en sala i les sèries no pertanyien a la pantalla de televisió. L'ordinador tampoc ja no és referent de programari de textos o d'edició de continguts diversos. La plataforma es va erigir, llavors, cavalcant entre la televisió, el cinema, el vídeo i la web, desdibuixant, en aquesta mateixa operació, als tradicionals formats.
 
 Durant la dècada següent van transformar-se progressivament en el servei de reproducció en línia que es coneix avui en dia
